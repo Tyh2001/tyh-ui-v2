@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d228c29"],{db0e:function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement;n._self._c;return n._m(0)},o=[function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[e("h1",[n._v("安装教程")])])}],u={name:"install",components:{},props:{},data:function(){return{}},computed:{},watch:{},created:function(){},mounted:function(){},methods:{}},a=u,r=e("2877"),s=Object(r["a"])(a,c,o,!1,null,"503c86ac",null);t["default"]=s.exports}}]);
-//# sourceMappingURL=chunk-2d228c29.75036707.js.map
